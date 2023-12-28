@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif?cid=ecf05e47nfkh45n7zv23clklyfv4byys7zj7z8ybk89w7o2h&rid=giphy.gif&ct=g" width="300"/>
   
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/wwuliang/](https://www.linkedin.com/in/william-wuliang-6315a61aa/)">
+    <a href="https://www.linkedin.com/in/wwuliang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
     </a>
   </div>
