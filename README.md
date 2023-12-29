@@ -25,8 +25,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :incoming_envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alan-xu-se/)
   
 Recent Goals Achieved : 
-- :star: DALL-E Clone (Deployed :white_check_mark:)
-- :star: Landing page in Next.js using Chakra UI and deploying it to Vercel
+- :star: Netflix Clone 
   
 Currently working on : 
 - :supervillain_man: Personal Portfolio
